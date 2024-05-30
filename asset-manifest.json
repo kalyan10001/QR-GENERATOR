@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/QR-GENERATOR/static/css/main.6dbee572.css",
+    "main.js": "/QR-GENERATOR/static/js/main.43c11790.js",
+    "static/js/453.5d1c6f6b.chunk.js": "/QR-GENERATOR/static/js/453.5d1c6f6b.chunk.js",
+    "static/media/logo.svg": "/QR-GENERATOR/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/QR-GENERATOR/index.html",
+    "main.6dbee572.css.map": "/QR-GENERATOR/static/css/main.6dbee572.css.map",
+    "main.43c11790.js.map": "/QR-GENERATOR/static/js/main.43c11790.js.map",
+    "453.5d1c6f6b.chunk.js.map": "/QR-GENERATOR/static/js/453.5d1c6f6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dbee572.css",
+    "static/js/main.43c11790.js"
+  ]
+}
